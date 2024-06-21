@@ -1,0 +1,175 @@
+body {
+  background-image: url(bg-image.svg);
+  overflow-y: hidden;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.logo {
+  margin: 20px;
+}
+
+.heading {
+  font-weight: bold;
+  bottom: 40px;
+  margin: 16px;
+  text-align: center;
+  font-size: 60px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: white;
+  position: relative;
+}
+
+.details {
+  font-size: 25px;
+  margin: 16px;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  position: relative;
+  bottom: 45px;
+}
+
+.form-container {
+  background-color: rgb(255 255 255 / 30%);
+  backdrop-filter: blur(10px);
+  border-radius: 13px;
+  width: 665px;
+  height: 410px;
+  margin: 16px;
+  margin: auto;
+  position: relative;
+  bottom: 45px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.name-content {
+  display: inline;
+  margin: 16px;
+}
+
+label {
+  margin: 16px;
+  font-size: 14px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.email-content {
+  text-align: end;
+  position: relative;
+  bottom: 32px;
+}
+.dropdown1-content {
+  display: inline;
+  position: relative;
+  margin: 16px;
+  bottom: 75px;
+}
+
+.dropdown2-content {
+  position: relative;
+  bottom: 181px;
+  margin: 16px;
+  left: 360px;
+}
+
+input {
+  border: 1px solid white;
+  /* background-color: red; */
+  height: 40px;
+  width: 250px;
+  border-radius: 10px;
+  /* margin: 16px; */
+}
+
+.name-label {
+  color: white;
+  top: 10px;
+  position: relative;
+}
+
+.email-label {
+  color: white;
+  right: 160px;
+  bottom: 20px;
+  position: relative;
+}
+
+.dropdown1-label {
+  color: white;
+}
+.dropdown2-label {
+  color: white;
+}
+.message-label {
+  color: white;
+  position: relative;
+  bottom: 200px;
+}
+
+.your-name {
+  position: relative;
+  margin: 16px;
+}
+
+.mail {
+  position: relative;
+  bottom: 30px;
+  margin: 16px;
+}
+
+.comp-size {
+  margin: 16px;
+  height: 40px;
+  width: 255px;
+  border-radius: 10px;
+  font-size: 14px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  color: rgb(92, 92, 92);
+  padding-left: 16px;
+}
+
+.subject-list {
+  margin: 16px;
+  height: 40px;
+  width: 255px;
+  border-radius: 10px;
+  font-size: 14px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  color: rgb(92, 92, 92);
+  padding-left: 16px;
+}
+
+.msg {
+  position: relative;
+  border-radius: 10px;
+  margin: 16px;
+  bottom: 207px;
+  width: 610px;
+  font-weight: bold;
+  color: rgb(92, 92, 92);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.btn {
+  width: 635px;
+  border-radius: 10px;
+  position: relative;
+  bottom: 235px;
+  font-size: 17px;
+  color: #4036a9;
+  font-weight: bold;
+  display: inline;
+  margin: 16px;
+}
