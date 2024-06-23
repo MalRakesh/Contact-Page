@@ -1,9 +1,9 @@
 Git Hub Link :
-https://github.com/MalRakesh/Dev-Challenges/tree/main/project4
+https://github.com/MalRakesh/Contact-Page
 
 
 Demo Link :
-https://contactuspagebyrakeshmal-git-main-malrakeshs-projects.vercel.app/
+https://contact-page-by-rakeshmal-git-main-malrakeshs-projects.vercel.app/
 
 
 Dev Challenges Solution : 
